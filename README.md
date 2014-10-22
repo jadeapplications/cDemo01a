@@ -11,7 +11,7 @@ Demonstrate the Jade Robot Moving Forwards at 3/4 Speed
 Type              : C
 Version           : 01.0
 Author            : myke predko
-Firmware          : 40
+Firmware          : 42
 ```
 
 
